@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-estoesunaprueba
-
-estotambien
-=======
-estoesunaprueba sinsentido
->>>>>>> 6368d8e17efc6bd60cadcab4920a5a2406aa3101
