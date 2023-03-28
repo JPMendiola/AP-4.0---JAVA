@@ -1,3 +1,4 @@
+package ejemplos.clase3;
 
 public class Clase3 {
 

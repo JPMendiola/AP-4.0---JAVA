@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84100009-087e-485d-85ef-e53645339f99" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Clase1/Clase1/src/Ejercicios1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clase1/Clase1/src/Ejercicios2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clase1/Clase1/src/ejerciciosClase1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Clase3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejemplos/clase3/Clase3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/clase1/Ejercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/clase3/Ejercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/clase1/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/clase3/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clase4/Clase4/src/Clase4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clase4/Clase4/src/ejercicios/clase4/Clase4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Clase5/src/Clase5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clase5/src/Clase5.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2NfA8bGCcGxKKNaOZDhBQi12oWV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Programming/Intellij Repository/AP 4.0 Java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84100009-087e-485d-85ef-e53645339f99" name="Changes" comment="" />
+      <created>1680044609604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680044609604</updated>
+    </task>
+    <servers />
+  </component>
+</project>

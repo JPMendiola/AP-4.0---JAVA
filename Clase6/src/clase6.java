@@ -1,7 +1,8 @@
 
-public class Clase5 {
+public class clase6 {
 
 	public static void main(String[] args) {
+	
 
 	}
 
